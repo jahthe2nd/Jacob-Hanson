@@ -1,0 +1,39 @@
+
+#div1{
+    color: ivory;
+    font-weight: 600;
+    font-size: xx-large;
+}
+
+#div2{
+    color: pink;
+    font-size: x-large;
+    text-align: center;
+}
+
+#div3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-indent: 95px;
+    color: rgb(43, 226, 137);
+    font-size: larger;
+}
+#newpage{
+    h2{
+        color: ivory;
+    }
+    
+        background-color: rgb(23, 144, 185);
+    
+    ol{
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    }
+
+    ul{
+        color: ivory
+    }
+
+    h4{
+        font-size: larger;
+        font-weight: bolder;
+    }
+}
